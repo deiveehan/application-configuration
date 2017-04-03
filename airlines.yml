@@ -1,2 +1,9 @@
 name: Panda Airlines
 
+security:
+  basic:
+    enabled: false
+
+management:
+  security:
+    enabled: false
